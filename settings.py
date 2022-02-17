@@ -1,0 +1,6 @@
+PATH_TO_MAP = None
+#  Map
+WIDTH = 10   # 100
+HEIGHT = 10  # 25
+
+TIMEOUT = 1
